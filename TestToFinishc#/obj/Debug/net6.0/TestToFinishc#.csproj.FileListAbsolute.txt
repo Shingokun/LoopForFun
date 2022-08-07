@@ -1,0 +1,15 @@
+C:\C#\VDMain\TestToFinishc#\bin\Debug\net6.0\TestToFinishc#.exe
+C:\C#\VDMain\TestToFinishc#\bin\Debug\net6.0\TestToFinishc#.deps.json
+C:\C#\VDMain\TestToFinishc#\bin\Debug\net6.0\TestToFinishc#.runtimeconfig.json
+C:\C#\VDMain\TestToFinishc#\bin\Debug\net6.0\TestToFinishc#.dll
+C:\C#\VDMain\TestToFinishc#\bin\Debug\net6.0\TestToFinishc#.pdb
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\TestToFinishc#.csproj.AssemblyReference.cache
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\TestToFinishc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\TestToFinishc#.AssemblyInfoInputs.cache
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\TestToFinishc#.AssemblyInfo.cs
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\TestToFinishc#.csproj.CoreCompileInputs.cache
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\TestToFinishc#.dll
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\refint\TestToFinishc#.dll
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\TestToFinishc#.pdb
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\TestToFinishc#.genruntimeconfig.cache
+C:\C#\VDMain\TestToFinishc#\obj\Debug\net6.0\ref\TestToFinishc#.dll
